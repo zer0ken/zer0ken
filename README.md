@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![zer0ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0ken)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zer0ken/zer0ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
