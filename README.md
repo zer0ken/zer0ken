@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on **ROKA**; Republic of Korea Army
 - 🌱 I’m currently learning **Web Design**
-- 📫 How to reach me: **_YOU CAN'T TOUCH THIS_**
+- 📫 How to reach me: **_U CAN'T TOUCH THIS_**
 - 😄 Pronouns: **it**
 - ⚡ Fun fact: **_I WANT TO GET FREE_**
