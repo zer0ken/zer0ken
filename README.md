@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning **Web Programming**
 - 📫 How to reach me: **_U CAN'T TOUCH THIS_**
 - 😄 Pronouns: **it**
-- ⚡ Fun fact: **_I WANT TO GET FREE_**
+- ⚡ Fun fact: **_I WANT TO BREAK FREE_**
