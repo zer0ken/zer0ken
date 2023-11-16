@@ -8,4 +8,3 @@
 - 📫 How to reach me: **_U CAN'T TOUCH THIS_**
 - 😄 Pronouns: **it**
 - ⚡ Fun fact: **_I WANT TO BREAK FREE_**
-- [Discharge Me](https://discharge.zer0ken.kr/)
