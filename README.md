@@ -15,7 +15,7 @@
 
 <!-- 기술 스택  -->
 [<img width="390" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#)  
-[<img width="390" src="./attachments/recent_languages.svg">](#)
+[<img width="390" src="./attachments/recent_languages.svg"><br>](#)
 
 <!-- 깃허브 Metrics -->
 [<img align="left" width="390" src="./attachments/general_metrics.svg">](#)
