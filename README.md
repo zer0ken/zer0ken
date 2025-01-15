@@ -12,7 +12,7 @@ Microsoft AI School 6기, 2024 ~ ... 🔍<br>
 
 ---
 [<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#)  
-[<img valign="top" width="390" src="./attachments/metrics.plugin.languages.recent.svg">](#)
+[<img valign="top" src="./attachments/metrics.plugin.languages.recent.svg">](#)
 
 ---
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=390&show_owner=true">](https://github.com/shtelo/kenkenjr)
