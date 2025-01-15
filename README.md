@@ -14,11 +14,8 @@
 [<img align="left" width="390" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">](https://solved.ac/lhr1105)
 
 <!-- 기술 스택  -->
-[<img align="right" width="390" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#)  
-[<img align="right" width="390" src="./attachments/recent_languages.svg">](#)
-
-<!-- 좌우 정렬 초기화 -->
-[<img height="0" width="100%">](#)
+[<img width="390" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#)  
+[<img width="390" src="./attachments/recent_languages.svg">](#)
 
 <!-- 프로젝트 -->
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=390&show_owner=true">](https://github.com/shtelo/kenkenjr)
