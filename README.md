@@ -19,11 +19,11 @@
     <hr>
     <h3>🚀 프로젝트 🚀</h3>
     <a href="https://github.com/shtelo/kenkenjr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=truehide_border=true"></a>
     <a href="https://github.com/zer0ken/tetris-ie">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=truehide_border=true"></a>
     <a href="https://github.com/kyla-devs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=truehide_border=true"></a>
     <hr>
     <!-- 깃허브 스탯  -->
     <img valign="top" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
