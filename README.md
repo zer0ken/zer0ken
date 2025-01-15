@@ -26,3 +26,6 @@
 [<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter">](#)
 [<img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify">](#)
 [<img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio">](#)
+
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
