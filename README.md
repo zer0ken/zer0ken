@@ -2,7 +2,7 @@
     <h1>👋👽🐸😎💻</h1>
     <!-- 백준(solved.ac) 스탯  -->
     <a href="https://solved.ac/lhr1105">
-        <img height=120px src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105"></a>
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105"></a>
     <h3>🪪 누구세요? 🪪</h3>
     저는 개발자 <code>이현령</code>이라고 합니다. 넷상에서는 주로 <code>zer0ken</code>이라는 아이디로 활동하고 있습니다.<br>
     <h3> 🏠 소속 🏠</h3>
@@ -11,21 +11,31 @@
     건국대학교 소프트웨어학과, 2019 ~ 2024 🎓<br>
     Microsoft AI School 6기, 2024 ~ ... 🔍<br>
     <h3>🔥 주로 사용하는 기술 🔥</h3>
-        <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp"></a><br>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp"></a><br>
+    <picture>
+        <img valign="top" src="./attachments/metrics.plugin.languages.recent.svg">
+    </picture>
     <h3>❄️ 숙련되지 않은 기술 ❄️</h3>
-        <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter"></a><br>
-        <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify"></a><br>
-        <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio"></a><br>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter"></a><br>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify"></a><br>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio"></a><br>
     <hr>
     <h3>🚀 프로젝트 🚀</h3>
     <a href="https://github.com/shtelo/kenkenjr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=truehide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=true"></a>
     <a href="https://github.com/zer0ken/tetris-ie">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=truehide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=true"></a>
     <a href="https://github.com/kyla-devs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=truehide_border=true"></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true"></a>
     <hr>
     <!-- 깃허브 스탯  -->
-    <img valign="top" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
-    <img valign="top" src="./attachments/metrics.plugin.achievements.compact.svg">
+    <picture>
+        <img valign="top" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
+    </picture>
+    <picture>
+        <img valign="top" src="./attachments/metrics.plugin.achievements.compact.svg">
+    </picture>
+    <picture>
+        <img valign="top" src="./attachments/metrics.plugin.languages.details.svg">
+    </picture>
 </div>
