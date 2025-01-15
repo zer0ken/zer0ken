@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h1>👋👽🐸😎💻</h1>
     <!-- 백준(solved.ac) 스탯  -->
     <a href="https://solved.ac/lhr1105">
