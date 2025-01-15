@@ -26,6 +26,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
     <hr>
     <!-- 깃허브 스탯  -->
-    <img valign="top" width="100%" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
+    <img valign="top" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
     <img valign="top" src="./attachments/metrics.plugin.achievements.compact.svg">
 </div>
