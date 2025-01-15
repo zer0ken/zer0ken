@@ -22,12 +22,12 @@
     <div style="display:inline-block;vertical-align:top">
         <!-- 깃허브 스탯탯  -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=zer0ken&theme=material-palenight&card_width=500&locale=kr"><br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ken&layout=compact&hide=jupyter%20notebook&theme=material-palenight&card_width=500&locale=kr"><br>
+            <img src="https://github-readme-stats.vercel.app/api?username=zer0ken&theme=material-palenight&locale=kr"><br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ken&layout=compact&hide=jupyter%20notebook&theme=material-palenight&locale=kr"><br>
         </a>
         <!-- Solved.ac (백준) -->
         <a href="https://solved.ac/lhr1105">
-            <img width="500px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">
+            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">
         </a>
     </div>
 </div>
