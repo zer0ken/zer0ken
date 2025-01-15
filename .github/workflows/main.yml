@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages
+          config_order: base.header, languages, isocalendar, achievements
           plugin_isocalendar: yes
           plugin_achievements: yes
           plugin_languages: yes
