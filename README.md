@@ -20,9 +20,7 @@ Microsoft AI School 6기, 2024 ~ ... 🔍<br>
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=390&show_owner=true">](https://github.com/kyla-devs)
 
 ---
-[<img valign="top" width="390" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img valign="top" width="390" src="./attachments/metrics.plugin.achievements.compact.svg">](#)
-[<img valign="top" width="390" src="./attachments/metrics.plugin.languages.details.svg">](#)
+[<img valign="top" width="390" src="./attachments/general_metrics.svg">](#)
 
 ---
 ### ❄️ 주로 사용하지 않는 기술 ❄️
