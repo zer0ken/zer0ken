@@ -9,24 +9,20 @@
 🎓 건국대학교 소프트웨어학과, 2019 ~ 2024  
 🔍 Microsoft AI School 6기, 2024 ~ ...  
 
----
-<!-- 백준(solved.ac) 스탯  -->
-[<img align="left" width="390" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">](https://solved.ac/lhr1105)
 
-<!-- 기술 스택  -->
-[<img width="390" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#)  
-[<img width="390" src="./attachments/recent_languages.svg"><br>](#)
-
+--- 
 <!-- 깃허브 Metrics -->
-[<img align="left" width="390" src="./attachments/general_metrics.svg">](#)
+[<img align="right" width="390" src="./attachments/general_metrics.svg">](#)
 
-<!-- 프로젝트 -->
+<!-- 기술 스택 / 백준(solved.ac) 스탯 / 프로젝트 -->
+[<img width="390" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp">](#) 
+[<img width="390" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">](https://solved.ac/lhr1105)
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=390&show_owner=true&theme=ambient_gradient">](https://github.com/kyla-devs)
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=390&show_owner=true&theme=material-palenight&hide_border=true">](https://github.com/zer0ken/tetris-ie)
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=390&show_owner=true&theme=material-palenight&hide_border=true">](https://github.com/shtelo/kenkenjr)
 
 <!-- 좌우 정렬 초기화 -->
-[<img height="0" width="100%">](#)
+[<img width="100%">](#)
 
 ### ❄️ 주로 사용하지 않는 기술 ❄️
 [<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter">](#)
