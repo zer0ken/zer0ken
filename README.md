@@ -9,7 +9,7 @@
     Microsoft AI School 6기, 2024 ~ ... 🔍<br>
     <h3>🔥 주로 사용하는 기술 🔥</h3>
         <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp"></a><br>
-    <h3>❄️ 숙련되지 않은 기술술 ❄️</h3>
+    <h3>❄️ 숙련되지 않은 기술 ❄️</h3>
         <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter"></a><br>
         <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify"></a><br>
         <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio"></a><br>
