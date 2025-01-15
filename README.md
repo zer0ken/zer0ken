@@ -20,12 +20,17 @@
 <!-- 좌우 정렬 초기화 -->
 [<img height="0" width="100%">](#)
 
---- 
+<!-- 프로젝트 -->
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=390&show_owner=true">](https://github.com/shtelo/kenkenjr)
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=390&show_owner=true">](https://github.com/zer0ken/tetris-ie)
 [<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=390&show_owner=true">](https://github.com/kyla-devs)
 
----
+<!-- 깃허브 Metrics -->
+[<img align="left" width="390" src="./attachments/general_metrics.svg">](#)
+
+<!-- 좌우 정렬 초기화 -->
+[<img height="0" width="100%">](#)
+
 ### ❄️ 주로 사용하지 않는 기술 ❄️
 [<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter">](#)
 [<img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify">](#)
