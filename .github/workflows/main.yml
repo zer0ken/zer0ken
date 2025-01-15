@@ -32,7 +32,7 @@ jobs:
           plugin_achievements_threshold: X
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter-notebook
+            gnuplot, jupyter%20notebook
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 10
       - uses: lowlighter/metrics@latest
@@ -43,7 +43,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter-notebook 
+            gnuplot, jupyter%20notebook
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 10
