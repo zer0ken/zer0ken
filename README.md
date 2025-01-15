@@ -22,7 +22,7 @@
 <!-- 좌우 정렬 초기화 -->
 [<img width="100%">](#)
 
-### ❄️ 주로 사용하지 않는 기술 ❄️
+### ❄️ 찍먹했거나 요즘 사용하지 않는 기술 ❄️
 [<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter">](#)
 [<img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify">](#)
 [<img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio">](#)
