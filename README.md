@@ -1,6 +1,6 @@
 # <p align="center">👋👽🐸😎💻</p>
 <!-- 백준(solved.ac) 스탯  -->
-[<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105"></a>](https://solved.ac/lhr1105)
+[<img align="right" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105"></a>](https://solved.ac/lhr1105)
 
 ### 🪪 누구세요? 🪪
 저는 개발자 <code>이현령</code>이라고 합니다. 넷상에서는 주로 <code>zer0ken</code>이라는 아이디로 활동하고 있습니다.<br>
