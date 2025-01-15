@@ -26,8 +26,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
     <hr>
     <!-- 깃허브 스탯  -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ken&layout=compact&hide=jupyter%20notebook&theme=nord&hide_border=true&locale=kr"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=zer0ken&theme=nord&hide_border=true&locale=kr"></a>
+    <img valign="top" width="400px" src="./attachments/metrics.plugin.isocalendar.fullyear.svg">
+    <img valign="top" src="./attachments/metrics.plugin.achievements.compact.svg">
 </div>
