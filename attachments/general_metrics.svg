@@ -66,7 +66,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 834kb of code in 368 edited files across 331 commits</small>
+                <small>estimation from 835kb of code in 370 edited files across 348 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -108,7 +108,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 73.7kb of code in 90 edited files across 188 commits over last 14 days</small>
+                <small>estimation from 152kb of code in 121 edited files across 231 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -126,8 +126,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>362 lines</div>
-                                <div>9.38 kB</div>
+                                <div>368 lines</div>
+                                <div>9.56 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -2279,7 +2279,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="135.52763819095478 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.30653266331657 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2301,10 +2301,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">175</div>
+                                        <div class="value">176</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 175 times</div>
+                                <div class="text">Repositories have been deployed 176 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
