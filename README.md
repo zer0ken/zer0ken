@@ -1,5 +1,8 @@
 <div align="center">
     <h1>👋👽🐸😎💻</h1>
+    <!-- 백준(solved.ac) 스탯  -->
+    <a href="https://solved.ac/lhr1105">
+        <img height=120px src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105"></a>
     <h3>🪪 누구세요? 🪪</h3>
     저는 개발자 <code>이현령</code>이라고 합니다. 넷상에서는 주로 <code>zer0ken</code>이라는 아이디로 활동하고 있습니다.<br>
     <h3> 🏠 소속 🏠</h3>
@@ -15,19 +18,16 @@
         <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio"></a><br>
     <hr>
     <h3>🚀 프로젝트 🚀</h3>
-    <a href="https://github.com/shtelo/kenkenjr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=true"></a>
-    <a href="https://github.com/zer0ken/tetris-ie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=true"></a>
-    <a href="https://github.com/kyla-devs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true"></a>
+    <a href="https://github.com/shtelo/kenkenjr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shtelo&repo=kenkenjr&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
+    <a href="https://github.com/zer0ken/tetris-ie">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
+    <a href="https://github.com/kyla-devs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=270&show_owner=true&theme=nord&hide_border=true"></a>
     <hr>
-    <div style="display:inline-block;vertical-align:top">
-        <!-- 깃허브 스탯탯  -->
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=zer0ken&theme=material-palenight&locale=kr"><br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ken&layout=compact&hide=jupyter%20notebook&theme=material-palenight&locale=kr"><br>
-        </a>
-        <!-- Solved.ac (백준) -->
-        <a href="https://solved.ac/lhr1105">
-            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhr1105">
-        </a>
-    </div>
+    <!-- 깃허브 스탯  -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ken&layout=compact&hide=jupyter%20notebook&theme=nord&hide_border=true&locale=kr"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=zer0ken&theme=nord&hide_border=true&locale=kr"></a>
 </div>
