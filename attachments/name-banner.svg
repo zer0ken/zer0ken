@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 386" width="1920" height="386">
+	<title>image</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1727,0,0,131,11,-33.769)">
+			<stop offset="0" stop-color="#f0dc63"/>
+			<stop offset=".405" stop-color="#6ccccc"/>
+			<stop offset="1" stop-color="#c792ea"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 130px;fill:  url(#g1);font-weight: 700;font-family: "NotoSans-Bold", "Noto Sans" } 
+		.t1 { font-size: 130px;fill:  url(#g1);font-weight: 800;font-family: "NotoSans-ExtraBold", "Noto Sans" } 
+		.t2 { font-size: 130px;fill:  url(#g1);font-weight: 800;font-style: italic;font-family: "NotoSans-ExtraBoldItalic", "Noto Sans" } 
+	</style>
+	<text id="Hyeon-ryeong &quot;zer0ken&quot; Lee" style="transform: matrix(1,0,0,1,85,235.269)" >
+		<tspan x="0" y="0" class="t0" dx="0" >H</tspan><tspan  y="0" class="t0" dx="0" >y</tspan><tspan  y="0" class="t0" dx="0" >e</tspan><tspan  y="0" class="t0" dx="0" >o</tspan><tspan  y="0" class="t0" dx="0" >n</tspan><tspan  y="0" class="t0" dx="0" >-</tspan><tspan  y="0" class="t0" dx="0" >r</tspan><tspan  y="0" class="t0" dx="0" >y</tspan><tspan  y="0" class="t0" dx="0" >e</tspan><tspan  y="0" class="t0" dx="0" >o</tspan><tspan  y="0" class="t0" dx="0" >n</tspan><tspan  y="0" class="t0" dx="0" >g</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t2">&quot;</tspan><tspan  y="0" class="t2">z</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">0</tspan><tspan  y="0" class="t2">k</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">n</tspan><tspan  y="0" class="t2">&quot;</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t0" dx="0" >L</tspan><tspan  y="0" class="t0" dx="0" >e</tspan><tspan  y="0" class="t0" dx="0" >e</tspan><tspan  y="0" class="t0" dx="0" >
+</tspan>
+	</text>
+</svg>
