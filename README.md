@@ -23,10 +23,13 @@
 <!-- 좌우 정렬 초기화 -->
 [<img width="100%">](#)
 
-### ❄️ 찍먹했거나 요즘 사용하지 않는 기술 ❄️
-[<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp,html,css,js,php,vue,flutter" title="❄️ 잘 안 쓰는 기술 스택입니다! ❄️">](#)
-[<img src="https://skillicons.dev/icons?i=firebase,aws,heroku,netlify" title="❄️ 잘 안 쓰는 플랫폼 서비스입니다! ❄️">](#)
-[<img src="https://skillicons.dev/icons?i=sublime,atom,eclipse,idea,pycharm,clion,androidstudio" title="❄️ 잘 안 쓰는 IDE입니다! ❄️">](#)
+### ❄️ 요즘 사용하지 않는 기술 ❄️
+[<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp" title="❄️ 잘 안 쓰는 기술 스택입니다! ❄️">](#)  
+[<img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,sublime,atom,eclipse,arduino,idea,pycharm,clion,androidstudio" title="❄️ 잘 안 쓰는 IDE입니다! ❄️">](#)  
+
+### ❓ 찍먹한 적이 있는 기술 ❓
+[<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,vue,nodejs,dart" title="❓ 잘 모르는 기술 스택입니다! ❓">](#)  
+[<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
 
 ---
 [<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" title="👀 방문자 수입니다! 👀">](#)
