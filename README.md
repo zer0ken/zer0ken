@@ -34,3 +34,4 @@
 
 ---
 [<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" title="👀 방문자 수입니다! 👀">](#)
+[<img src="https://img.shields.io/badge/branding-292d3e">](https://github.com/zer0ken/branding)
