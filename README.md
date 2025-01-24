@@ -23,7 +23,7 @@
 [<img width="100%">](#)
 
 ### 🔥 주로 사용하는 기술 🔥
-[<img width="400" src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)<br>
+[<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)<br>
 
 ### ❄️ 요즘 사용하지 않는 기술 ❄️
 [<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp" title="❄️ 잘 안 쓰는 기술 스택입니다! ❄️">](#)  
