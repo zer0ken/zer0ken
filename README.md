@@ -23,6 +23,9 @@
 <!-- 좌우 정렬 초기화 -->
 [<img width="100%">](#)
 
+<details>
+<summary>🛠️ 기술 스택 🛠️</summary>
+
 ### 🔥 주로 사용하는 기술 🔥
 [<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)<br>
 
@@ -33,6 +36,7 @@
 ### ❓ 찍먹한 적이 있는 기술 ❓
 [<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,vue,nodejs,dart" title="❓ 잘 모르는 기술 스택입니다! ❓">](#)  
 [<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
+</details>
 
 ---
 [<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" title="👀 방문자 수입니다! 👀">](#)
