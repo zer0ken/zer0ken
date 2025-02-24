@@ -36,6 +36,8 @@
 ### ❓ 찍먹한 적이 있는 기술 ❓
 [<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,vue,nodejs,dart" title="❓ 잘 모르는 기술 스택입니다! ❓">](#)  
 [<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=zer0ken)
 </details>
 
 ---
