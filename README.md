@@ -1,4 +1,4 @@
-[<img width="100%" src="https://raw.githubusercontent.com/zer0ken/branding/refs/heads/main/name-banner/name-banner.png" title="🍊">](#)
+[<img width="100%" src="https://raw.githubusercontent.com/zer0ken/branding/refs/heads/main/etc/name-banner/name-banner.png" title="🍊">](#)
 
 저는 개발자 `이현령`입니다.   
 넷상에서는 주로 `zer0ken`이라는 아이디로 활동하고 있습니다.
