@@ -8,9 +8,6 @@
 <span title="입학은 소프트웨어학과로 했지만... 컴퓨터공학과로 통폐합되어서 졸업은 컴퓨터공학과로 했습니다.">🎓 [건국대학교 소프트웨어학과](https://cse.konkuk.ac.kr), 2019 ~ 2024</span>  
 <span title="화이팅!">🔍 [Microsoft AI School 6기](https://youtu.be/60C_z1vTmn8), 2024 ~ ...</span>  
 
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=400&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)
-[<img width="400" align="right" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
-
 --- 
 <!-- 깃허브 Metrics, 우측 정렬 -->
 [<img align="right" width="400" src="./attachments/general_metrics.svg" title="📊 lowlighter/metrics로 생성한 깃허브 통계입니다! 📊">](#)
@@ -20,6 +17,12 @@
 [<img width="400" src="http://mazandi.herokuapp.com/api?handle=zer0ken&theme=dark" title="🪪 solved.ac에서 프로필을 확인해보세요! 🪪"/>](https://solved.ac/profile/zer0ken)
 [<img width="400" src="https://leetcard.jacoblin.cool/zer0ken?theme=nord&font=Noto%20Sans&ext=heatmap&border_radius=20" title="✅ leetcode.com에서 프로필을 확인해보세요! ✅">](https://leetcode.com/u/zer0ken/)  
 [<img width="50" align="top" src="https://d1nuzc1w51n1es.cloudfront.net/5d95b525bfabd97e0c7b.png" title="✨ [프로그래머스] 탄탄한 비기너 ✨">](https://school.programmers.co.kr/skill_checks)
+
+---
+<!-- PS -->
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=400&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)    
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=problem-solving&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/problem-solving)  
 
 <details>
 <summary>🛠️ 기술 스택 🛠️</summary>
