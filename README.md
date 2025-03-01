@@ -8,6 +8,8 @@
 <span title="입학은 소프트웨어학과로 했지만... 컴퓨터공학과로 통폐합되어서 졸업은 컴퓨터공학과로 했습니다.">🎓 [건국대학교 소프트웨어학과](https://cse.konkuk.ac.kr), 2019 ~ 2024</span>  
 <span title="화이팅!">🔍 [Microsoft AI School 6기](https://youtu.be/60C_z1vTmn8), 2024 ~ ...</span>  
 
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=400&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
 
 --- 
 <!-- 깃허브 Metrics, 우측 정렬 -->
@@ -16,12 +18,9 @@
 <!-- 기술 스택 / 백준(solved.ac) 스탯 / 프로젝트 -->
 [<img width="400" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=zer0ken" title="🪪 solved.ac에서 프로필을 확인해보세요! 🪪">](https://solved.ac/profile/zer0ken)
 [<img width="400" src="http://mazandi.herokuapp.com/api?handle=zer0ken&theme=dark" title="🪪 solved.ac에서 프로필을 확인해보세요! 🪪"/>](https://solved.ac/profile/zer0ken)
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=400&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
-[<img width="50" src="https://d1nuzc1w51n1es.cloudfront.net/5d95b525bfabd97e0c7b.png" title="✨ [프로그래머스] 탄탄한 비기너 ✨">](https://school.programmers.co.kr/skill_checks)
-
-<!-- 좌우 정렬 초기화 -->
-[<img width="100%">](#)
+[<img width="400" src="https://leetcard.jacoblin.cool/zer0ken?theme=nord&font=Noto%20Sans&ext=heatmap&border_radius=20" title="✅ leetcode.com에서 프로필을 확인해보세요! ✅">](https://leetcode.com/u/zer0ken/)  
+[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=problem-solving&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/problem-solving)  
+[<img width="50" align="top" src="https://d1nuzc1w51n1es.cloudfront.net/5d95b525bfabd97e0c7b.png" title="✨ [프로그래머스] 탄탄한 비기너 ✨">](https://school.programmers.co.kr/skill_checks)
 
 <details>
 <summary>🛠️ 기술 스택 🛠️</summary>
@@ -38,6 +37,5 @@
 [<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
 </details>
 
----
 [<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" title="👀 방문자 수입니다! 👀">](#)
 [<img src="https://img.shields.io/badge/branding-292d3e">](https://github.com/zer0ken/branding)
