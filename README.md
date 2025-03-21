@@ -9,11 +9,15 @@
 <span title="화이팅!">🔍 [Microsoft AI School 6기](https://youtu.be/60C_z1vTmn8), 2024 ~ ...</span>  
 
 
----
 <!-- 리포 -->
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=400&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=8ollow-me&repo=.github&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=2">](https://github.com/8ollow-me)  
-[<img width="400" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=400&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)    
+<div align='center'>
+
+[<img width="340" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&card_width=340&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)
+[<img width="340" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=8ollow-me&repo=.github&card_width=340&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/8ollow-me)
+[<img width="340" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&card_width=340&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)
+[<img width="340" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=problem-solving&card_width=340&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/problem-solving)
+
+</div>
 
 --- 
 <!-- 깃허브 Metrics, 우측 정렬 -->
