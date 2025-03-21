@@ -27,7 +27,7 @@
 [<img width="400" src="https://stats.hyo.dev/api/github-stats?login=zer0ken" title="🔖 hyochan/github-stats로 생성한 깃허브 통계입니다! 🔖">](#)
 [<img width="400" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=zer0ken" title="🪪 solved.ac에서 프로필을 확인해보세요! 🪪">](https://solved.ac/profile/zer0ken)
 [<img width="400" src="https://leetcard.jacoblin.cool/zer0ken?theme=nord&font=Fira%20Code&ext=heatmap&border_radius=20" title="✅ leetcode.com에서 프로필을 확인해보세요! ✅">](https://leetcode.com/u/zer0ken/)  
-[<img width="50" align="top" src="https://d1nuzc1w51n1es.cloudfront.net/5d95b525bfabd97e0c7b.png" title="✨ [프로그래머스] 탄탄한 비기너 ✨">](https://school.programmers.co.kr/skill_checks)
+[<img width="50" align="top" src="https://d1nuzc1w51n1es.cloudfront.net/13f2470e1806c9f6e84c.png" title="✨ [프로그래머스] 남다른 실력자 ✨">](https://school.programmers.co.kr/skill_checks)
 
 <details>
 <summary>🛠️ 기술 스택 🛠️</summary>
