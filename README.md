@@ -21,7 +21,7 @@
 <!-- 기술 스택 / 백준(solved.ac) 스탯 / 프로젝트 -->
 [<img title="버츄얼 휴먼을 직접 개발해보는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  
 [<img title="IE에서도 정상적으로 동작하는 테트리스 클론 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
-[<img title="포토샵 계열을 쬐끔 다룰 줄 압니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=branding&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/problem-solving)
+[<img title="포토샵 계열을 쬐끔 다룰 줄 압니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=branding&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/branding)
 [<img width="400" title="최근 Velog 포스팅입니다!" src="https://velog-readme-stats.vercel.app/api/list?name=zer0ken&color=dark">](https://velog.io/@zer0ken/posts)
 
 ### 🔥 주로 사용하는 기술 🔥
