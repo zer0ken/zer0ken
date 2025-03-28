@@ -17,7 +17,7 @@
 [<img title="✨ 프로그래머스도 하고 있어요! ✨" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png">](https://school.programmers.co.kr/skill_checks)  
 [<img title="📝 Velog에 포스팅합니다! 📝" src="https://velog-readme-stats.vercel.app/api/badge?name=zer0ken">](https://velog.io/@zer0ken/posts)
 [<img title="📝 X(twitter)에서 소통합니다! 📝" src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%40z0k_dev">](https://x.com/z0k_dev)
-[<img title="👀" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">](#) 
+<!-- [<img title="👀" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">](#) -->
 
 <!-- 기술 스택 / 백준(solved.ac) 스탯 / 프로젝트 -->
 [<img title="버츄얼 휴먼을 직접 개발해보는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  
