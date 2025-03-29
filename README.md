@@ -14,7 +14,7 @@
 
 <!-- 뱃지 -->
 [<img title="⛓️‍💥 문제 풀이를 좋아합니다! ⛓️‍💥" src="https://mazassumnida.wtf/api/mini/generate_badge?boj=zer0ken">](https://solved.ac/profile/zer0ken)
-[<img title="✨ 프로그래머스도 하고 있어요! ✨" height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png">](https://school.programmers.co.kr/skill_checks)
+[<img title="✨ 프로그래머스도 하고 있어요! ✨" height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg">](https://school.programmers.co.kr/skill_checks)
 <br>
 [<img title="📝 Velog에 포스팅합니다! 📝" src="https://velog-readme-stats.vercel.app/api/badge?name=zer0ken">](https://velog.io/@zer0ken/posts)
 [<img title="📝 X(twitter)에서 소통합니다! 📝" src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%40z0k_dev">](https://x.com/z0k_dev)
