@@ -23,6 +23,10 @@
 
 ## 프로젝트 경험
 
+- **인공지능 기반 맞춤형 취업 가이드** | 2025 | Microsoft AI School | *Python*
+  - 프로젝트 매니저로서 기여함.
+  - LLM 기반 대화형 에이전트를 구현함.
+  - RAG, 오케스트레이션 기술을 활용하여 다양한 기능을 구현함.
 - **인공지능 기반 반려동물 행동 분석 앱 개발** | 2025 | Microsoft AI School | *Python*
   - 프로젝트 리더로서 기여함.
   - 인공지능에 의한 실시간 영상 처리(Object Detection, Classification) 시스템을 개발함.
