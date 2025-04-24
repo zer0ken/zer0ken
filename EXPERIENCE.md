@@ -20,8 +20,8 @@
 - **커뮤니티**의 성장에 기여
 
 ## 📜 프로젝트 경험
-### **인공지능 기반 맞춤형 취업 가이드** <sub>2025 | Microsoft AI School</sub>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat&logo=gradio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+### **인공지능 기반 맞춤형 취업 가이드 개발** <sub>2025 | Microsoft AI School</sub>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure%20OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat&logo=gradio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 - [hire-me-asap/hire-me-app: 🤧 엣취 - 엣지있게 취업하기](https://github.com/hire-me-asap/hire-me-app)
 - 9인 팀에서 PM으로서 기여함.
 - LLM 기반 대화형 RAG 에이전트를 구현함.
@@ -30,7 +30,7 @@
 - Multi-Agent 구조를 채택하여 기존 기능을 유기적으로 연결하고 사용성을 개선함.
 
 ### **인공지능 기반 반려동물 행동 분석 앱 개발** <sub>2025 | Microsoft AI School</sub>
-<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Yolov11-111F68?logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/ResNet--34-EE4C2C?logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Yolov11-111F68?logo=yolo&logoColor=white) ![](https://img.shields.io/badge/ResNet--34-EE4C2C?logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 - [8ollow-me/rogun-app: 🐶 로건 - 반려동물 행동 분석 앱](https://github.com/8ollow-me/rogun-app)
 - 7인 팀에서 PL, PM으로서 기여함.
 - 인공지능에 의한 실시간 영상 처리(Object Detection, Classification) 시스템을 개발함.
@@ -38,18 +38,18 @@
 - 학습 과정에서 파인 튜닝을 위해 Optuna를 사용함.
 
 ### **맞춤 의료 정보 관리 앱 개발** <sub>2024 | 건국대학교</sub>
-<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Yolov11-111F68?logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/ResNet--18-EE4C2C?logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![](https://img.shields.io/badge/Yolov11-111F68?logo=yolo&logoColor=white) ![](https://img.shields.io/badge/ResNet--18-EE4C2C?logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 - [zer0ken/doc-di-ai-server: 💊 똑디의 인공지능 서버](https://github.com/zer0ken/doc-di-ai-server)
 - 4인 팀에서 인공지능 파트를 담당하여 프로젝트에 기여함.
 - 인공지능에 의한 영상 처리(Object Detection + Recognition) 시스템을 개발함.
 - LLM 기반의 챗봇을 개발함.
 
-### **마이크로디그리 인증 시스템 개발** <sub>2024 | 실감미디어 혁신융합대학 사업단</sub>
-<img src="https://img.shields.io/badge/OpenJDK-000000?logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Java Swing-000000?logoColor=white"> <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white)  
+### **마이크로디그리 인증 자동화 시스템 개발** <sub>2024 | 실감미디어 혁신융합대학 사업단</sub> 
+![](https://img.shields.io/badge/OpenJDK-000000?logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Java%20Swing-000000?logoColor=white) ![](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white)
 - [zer0ken/degree-verifier: 마이크로디그리 이수 여부 자동 검사기](https://github.com/zer0ken/degree-verifier)
 - 2인 팀에서 PL, PM으로서 기여함.
 - 클라이언트와 직접 소통하며 요구사항을 분석하고 문서화함.
-- 복잡한 조건을 가지는 마이크로디그리에 대한 검사 시스템 개발하여 검사 과정을 자동화함.
+- 복잡한 조건을 가지는 마이크로디그리에 대한 검사 시스템을 개발하여 검사 과정을 자동화함.
 - 8개 대학으로부터 수집한 3,000여 명의 학생 이수내역을 처리함.
 - 개발된 시스템을 문서화하여 사업단에 인계함.
 
