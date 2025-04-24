@@ -25,7 +25,7 @@
 [<img title="IE에서도 정상적으로 동작하는 테트리스 클론 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
 [<img title="포토샵 계열을 쬐끔 다룰 줄 압니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=branding&show_owner=true&theme=material-palenight&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/branding)  
 [<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)  
-[<img width="400" title="최근 Velog 포스팅입니다!" src="https://velog-readme-stats.vercel.app/api/list?name=zer0ken&color=dark">](https://velog.io/@zer0ken/posts)  
+<!-- [<img width="400" title="최근 Velog 포스팅입니다!" src="https://velog-readme-stats.vercel.app/api/list?name=zer0ken&color=dark">](https://velog.io/@zer0ken/posts)  -->
 
 ---
 
