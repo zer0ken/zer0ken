@@ -40,3 +40,13 @@
 [<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
 
 </details>
+
+---
+
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/703406247330002743/draw"
+    width="400"
+    alt="gitanimals"
+  />
+</a>
