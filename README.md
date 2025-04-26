@@ -10,7 +10,7 @@
 <span title="커뮤니티를 운영하고 관리하는 것 뿐만 아니라 개발자로서의 경험도 얻을 수 있었습니다. 여기서 처음 파이썬도 공부하기 시작하고 API 프로그래밍에도 익숙해졌거든요.">🙌 **온라인 커뮤니티 슈텔로**, 2018 ~ 2022</span>  
 <span title="입학은 소프트웨어학과로 했지만... 컴퓨터공학과로 통폐합되어서 졸업은 컴퓨터공학과로 했습니다.">🎓 **건국대학교 소프트웨어학과**, 2019 ~ 2024</span>  
 <span title="화이팅!">🪟 **Microsoft AI School**, 2024 ~ 2025</span>  
-❓ 제 [과거](EXPERIENCE.md)가 궁금하신가요?
+❓ 저의 [경험](EXPERIENCE.md)이 궁금하신가요?
 
 <!-- 뱃지 -->
 [<img title="⛓️‍💥 문제 풀이를 좋아합니다! ⛓️‍💥" src="https://mazassumnida.wtf/api/mini/generate_badge?boj=zer0ken">](https://solved.ac/profile/zer0ken)
