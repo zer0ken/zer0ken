@@ -61,7 +61,9 @@
 - 동적인 컨텍스트 관리에 의한 단기 기억 구현.
 - LLM 기반 문서 요약 및 구조화에 의한 장기 기억 구현.
 
-### **백준 온라인 저지 PS** <sub>진행중</sub>
+### **PS: 백준 온라인 저지 / 프로그래머스** <sub>진행중</sub>
+[<img title="⛓️‍💥 문제 풀이를 좋아합니다! ⛓️‍💥" src="https://mazassumnida.wtf/api/mini/generate_badge?boj=zer0ken">](https://solved.ac/profile/zer0ken)
+[<img title="✨ 프로그래머스도 하고 있어요! ✨" height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg">](https://school.programmers.co.kr/skill_checks)
 - 온라인 저지 플랫폼을 통해 스트릭을 유지하며 PS를 진행하고 있음.
 - 파이썬, 자료구조, 알고리즘에 대해 공부함.
 
