@@ -47,7 +47,7 @@
 ### **마이크로디그리 인증 자동화 시스템 개발** <sub>2024 | 실감미디어 혁신융합대학 사업단</sub> 
 ![](https://img.shields.io/badge/OpenJDK-000000?logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Java%20Swing-000000?logoColor=white) ![](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white)
 - [zer0ken/degree-verifier: 마이크로디그리 이수 여부 자동 검사기](https://github.com/zer0ken/degree-verifier)
-- 2인 팀에서 PL, PM으로서 기여함.
+- 2인 팀으로 작업함.
 - 클라이언트와 직접 소통하며 요구사항을 분석하고 문서화함.
 - 복잡한 조건을 가지는 마이크로디그리에 대한 검사 시스템을 개발하여 검사 과정을 자동화함.
 - 8개 대학으로부터 수집한 3,000여 명의 학생 이수내역을 처리함.
