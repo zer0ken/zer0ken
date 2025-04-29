@@ -66,7 +66,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 2855 edited files across 2307 commits</small>
+                <small>estimation from 165mb of code in 2858 edited files across 2310 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -150,7 +150,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 349kb of code in 227 edited files across 159 commits over last 14 days</small>
+                <small>estimation from 378kb of code in 235 edited files across 163 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2301,7 +2301,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="111.08333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.63333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2323,10 +2323,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">415</div>
+                                        <div class="value">418</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 415 times</div>
+                                <div class="text">Repositories have been deployed 418 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2440,7 +2440,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.58m out of 249m repositories</span>
+                                    <span class="gh">ranked 3.58m out of 250m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
