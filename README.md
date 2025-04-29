@@ -21,26 +21,12 @@
 <!-- [<img title="👀" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0ken&count_bg=%23C792EA&title_bg=%23292D3E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">](#) -->
 
 <!-- 기술 스택 / 프로젝트 -->
+[<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)  
 [<img title="버츄얼 휴먼을 직접 개발해보는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  
 [<img title="인공지능 기반 맞춤형 취업 가이드를 개발하는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/hire-me-asap)  
 [<img title="IE에서도 정상적으로 동작하는 테트리스 클론 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
 [<img title="포토샵 계열을 쬐끔 다룰 줄 압니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=branding&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/branding)  
-[<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian,azure,gcp" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)  
 <!-- [<img width="400" title="최근 Velog 포스팅입니다!" src="https://velog-readme-stats.vercel.app/api/list?name=zer0ken&color=dark">](https://velog.io/@zer0ken/posts)  -->
-
----
-
-<details>
-  
-### ❄️ 요즘 사용하지 않는 기술 ❄️
-[<img src="https://skillicons.dev/icons?i=photoshop,java,kotlin,c,cpp" title="❄️ 잘 안 쓰는 기술 스택입니다! ❄️">](#)  
-[<img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,sublime,atom,eclipse,arduino,idea,pycharm,clion,androidstudio" title="❄️ 잘 안 쓰는 IDE입니다! ❄️">](#)  
-
-### ❓ 찍먹한 적이 있는 기술 ❓
-[<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,vue,nodejs,dart" title="❓ 잘 모르는 기술 스택입니다! ❓">](#)  
-[<img src="https://skillicons.dev/icons?i=firebase,cloudflare,aws,heroku,netlify,flutter" title="❓ 잘 모르는 플랫폼 서비스 및 IDE입니다! ❓">](#)  
-
-</details>
 
 ---
 
