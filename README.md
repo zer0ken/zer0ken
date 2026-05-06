@@ -3,8 +3,7 @@
 <!-- 깃허브 Metrics, 우측 정렬 -->
 [<img align="right" width="400" src="./attachments/general_metrics.svg" title="📊 lowlighter/metrics로 생성한 깃허브 통계입니다! 📊">](#)
 
-저는 개발자 `이현령`입니다.   
-넷상에서는 주로 `zer0ken`이라는 아이디로 활동하고 있습니다.
+저는 개발자 **이현령**입니다.
 
 <span title="이때만 해도 학교에 개발을 할 줄 아는 사람이 별로 없었는데, 제가 졸업하고 나니까 실력자들이 늘어나서 동아리 수준이 확 높아졌더라구요. 그래도 오량 해커톤을 처음 기획한 사람이 저라는 사실은 자랑할 만 하죠?">🏫 **대전대신고등학교 개발자 동아리 A.C.T**, 2016 ~ 2018</span>  
 <span title="커뮤니티를 운영하고 관리하는 것 뿐만 아니라 개발자로서의 경험도 얻을 수 있었습니다. 여기서 처음 파이썬도 공부하기 시작하고 API 프로그래밍에도 익숙해졌거든요.">🙌 **온라인 커뮤니티 슈텔로**, 2018 ~ 2022</span>  
@@ -14,6 +13,7 @@
 ❓ 저의 [경험](EXPERIENCE.md)이 궁금하신가요?
 
 <!-- 뱃지 -->
+
 [<img title="⛓️‍💥 문제 풀이를 좋아합니다! ⛓️‍💥" src="https://mazassumnida.wtf/api/mini/generate_badge?boj=zer0ken">](https://solved.ac/profile/zer0ken)
 [<img title="✨ 프로그래머스도 하고 있어요! ✨" height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg">](https://school.programmers.co.kr/skill_checks)
 <br>
@@ -24,18 +24,5 @@
 <!-- 기술 스택 / 프로젝트 -->
 
 [<img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian" title="🔥 주로 사용하는 기술, 플랫폼 서비스, IDE입니다! 🔥">](#)  
-<!-- [<img title="버츄얼 휴먼을 직접 개발해보는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=kyla-devs&repo=.github&show_owner=true&theme=ambient_gradient&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/kyla-devs)  -->
-[<img title="인공지능 기반 맞춤형 취업 가이드를 개발하는 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/hire-me-asap)  
+[<img title="Microsoft Edge의 Border-less window를 여는 CLI 도구입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=hire-me-asap&repo=hire-me-app&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/borderless-edge)  
 [<img title="IE에서도 정상적으로 동작하는 테트리스 클론 프로젝트입니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=tetris-ie&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/tetris-ie)  
-<!-- [<img title="포토샵 계열을 쬐끔 다룰 줄 압니다!" src="https://github-readme-stats-zer0ken.vercel.app/api/pin/?username=zer0ken&repo=branding&show_owner=true&theme=nord&hide_border=true&border_radius=10.0&cache_seconds=3600">](https://github.com/zer0ken/branding)  -->
-<!-- [<img width="400" title="최근 Velog 포스팅입니다!" src="https://velog-readme-stats.vercel.app/api/list?name=zer0ken&color=dark">](https://velog.io/@zer0ken/posts)  -->
-
----
-
-<a href="https://www.gitanimals.org/">
-  <img
-    src="https://render.gitanimals.org/guilds/703406247330002743/draw"
-    width="400"
-    alt="gitanimals"
-  />
-</a>
