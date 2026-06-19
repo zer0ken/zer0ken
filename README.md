@@ -1,5 +1,5 @@
 <!-- 깃허브 Metrics, 우측 정렬 -->
-[<img align="right" width="400" src="./attachments/general_metrics.svg" title="📊 lowlighter/metrics로 생성한 깃허브 통계입니다! 📊">](#)
+[<img align="right" width="400" src="./attachments/general_metrics.svg">](#)
 
 # 이현령
 
