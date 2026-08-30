@@ -5,4 +5,4 @@
 
 - 백준 온라인 저지와 프로그래머스를 통해 문제 해결을 공부하고 있다.
 - Python, 자료구조, 알고리즘을 중심으로 학습하고 있다.
-- 풀이 기록: [zer0ken/problem-solving](https://github.com/zer0ken/problem-solving)
+- 풀이 기록은 [zer0ken/problem-solving](https://github.com/zer0ken/problem-solving) 리포지토리에 기록된다.

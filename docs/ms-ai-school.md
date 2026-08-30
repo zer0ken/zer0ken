@@ -46,7 +46,7 @@
 
 - 교육생 간 지식 격차를 줄이기 위해 스터디를 운영했다.
 - 구성원들이 문제 해결을 통해 Python을 학습하도록 지원했다.
-- 구성원 solved.ac 프로필 목록: [zer0ken/python-slow-starter](https://github.com/zer0ken/python-slow-starter)
+- 구성원의 solved.ac 프로필은 [zer0ken/python-slow-starter](https://github.com/zer0ken/python-slow-starter)에 정리되어 있다.
 
 ### 알고리즘 스터디 참여
 
