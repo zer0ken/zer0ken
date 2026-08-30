@@ -21,14 +21,6 @@
 - `decomp`로 분해하고 `comp`로 재조립하며, 변경된 슬라이드만 갱신한다.
 - GitHub PR에서 변경 슬라이드가 이미지로 표시된다.
 
-### mobinogi-timer
-
-<sub>2026</sub>
-
-- 저장소: [zer0ken/mobinogi-timer](https://github.com/zer0ken/mobinogi-timer)
-- 마비노기 모바일의 각성 패시브 지속시간과 쿨다운을 추적하는 오버레이 타이머다.
-- 단축키로 시작하는 수동 버전과 Npcap 패킷 캡처로 각성 발동을 자동 감지하는 자동 버전을 제공하며, 실행 파일을 릴리즈로 배포한다.
-
 ## 팀 프로젝트
 
 ### 맞춤 의료 정보 관리 앱
